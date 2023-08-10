@@ -52,6 +52,7 @@ namespace KnowledgeCheck1_Calculator
 
                 case "3":
                     // Add code here
+                    //testing git commit by putting a message here first and pushing back
                     break;
 
                 case "4":
